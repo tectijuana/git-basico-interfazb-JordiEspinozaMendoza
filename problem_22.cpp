@@ -5,7 +5,7 @@
 // Sacar dos números al azar entre 1 y 20. ¿Cuál es la probabilidad
 // de que su suma sea 12?
 
-// @Author JordiEspinozaMendoza
+// @Author @JordiEspinozaMendoza
 // @Date 10 March 2022
 
 using namespace std;

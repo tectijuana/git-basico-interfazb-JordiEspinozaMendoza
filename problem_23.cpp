@@ -6,7 +6,7 @@
 // la probabilidad de que por lo menos uno de los tres
 // dados muestre un tres.
 
-// @Author JordiEspinozaMendoza
+// @Author @JordiEspinozaMendoza
 // @Date 10 March 2022
 
 using namespace std;
