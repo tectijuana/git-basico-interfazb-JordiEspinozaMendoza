@@ -29,6 +29,7 @@ int main()
                 if (temp[k] == letters[random])
                 {
                     isInTemp = true;
+                    break;
                 }
             }
             if (!isInTemp)
