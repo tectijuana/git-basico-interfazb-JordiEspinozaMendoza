@@ -1,7 +1,7 @@
 #include <iostream>
 #include <math.h>
 
-// Problem 22
+// Problem 23
 // Simular el lanzamiento de tres dados y determinar
 // la probabilidad de que por lo menos uno de los tres
 // dados muestre un tres.
