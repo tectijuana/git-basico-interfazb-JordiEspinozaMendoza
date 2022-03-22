@@ -1,5 +1,5 @@
-Nombre: Jordi Espinoza Mendoza
-Número de control: 19211633
+#### Nombre: Jordi Espinoza Mendoza
+#### Número de control: 19211633
 
 ### Detalles
 
